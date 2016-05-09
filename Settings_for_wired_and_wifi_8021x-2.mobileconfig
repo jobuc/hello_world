@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict><key>PayloadIdentifier</key><string>com.apple.mdm.ws207012.local.fd99a5b0-f597-0133-3f77-406c8fbcb000.alacarte</string><key>PayloadRemovalDisallowed</key><false/><key>PayloadScope</key><string>System</string><key>PayloadType</key><string>Configuration</string><key>PayloadUUID</key><string>fd99a5b0-f597-0133-3f77-406c8fbcb000</string><key>PayloadOrganization</key><string>Colruyt Group</string><key>PayloadVersion</key><integer>1</integer><key>PayloadDisplayName</key><string>Settings for wired and wifi 8021x</string><key>PayloadContent</key><array><dict><key>PayloadType</key><string>com.apple.security.root</string><key>PayloadVersion</key><integer>1</integer><key>PayloadIdentifier</key><string>com.apple.mdm.ws207012.local.fd99a5b0-f597-0133-3f77-406c8fbcb000.alacarte.certificate.7f6f075a-a83a-4477-9519-ca41e74039fc</string><key>PayloadUUID</key><string>7f6f075a-a83a-4477-9519-ca41e74039fc</string><key>PayloadEnabled</key><true/><key>PayloadContent</key><data>LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tDQpNSUlFNERDQ0E4aWdBd0lC
+QWdJUU5Fck52N0lBaTVSQWRYb3JGNDRGTVRBTkJna3Foa2lHOXcwQkFRVUZB
+REJpDQpNUk13RVFZS0NaSW1pWlB5TEdRQkdSWURhVzUwTVJjd0ZRWUtDWklt
+aVpQeUxHUUJHUllIWTI5c2NuVjVkREVWDQpNQk1HQ2dtU0pvbVQ4aXhrQVJr
+V0JXRmtiV2x1TVJzd0dRWURWUVFERXhKRFFTMVNUMDlVTFVGRVRVbE9MVkJT
+DQpUMFF3SGhjTk1EZ3hNVEUwTURreE5UTTJXaGNOTWpneE1URTBNRGt4T0RN
+MldqQmlNUk13RVFZS0NaSW1pWlB5DQpMR1FCR1JZRGFXNTBNUmN3RlFZS0Na
+SW1pWlB5TEdRQkdSWUhZMjlzY25WNWRERVZNQk1HQ2dtU0pvbVQ4aXhrDQpB
+UmtXQldGa2JXbHVNUnN3R1FZRFZRUURFeEpEUVMxU1QwOVVMVUZFVFVsT0xW
+QlNUMFF3Z2dFaU1BMEdDU3FHDQpTSWIzRFFFQkFRVUFBNElCRHdBd2dnRUtB
+b0lCQVFDODIxTXRwSW43ZGZlWm9DTjZLUFVUTTBCQmx1aXlyTDFlDQpiTkdt
+TTJISGZrL2pmRHhaRTc3aHNCUzNVTUtsQjlnK2N1K0VCT1k2NXdyZlNvQ3dJ
+dWZCTWNNQ1J1SEdlbzFMDQpJVnFyU3Njalo1bFZ1Sml2OWM3elR3SGFBQms1
+WW14Z2EvVEVCVXZBbVFaK1BWbFRacnBiZTZ1SURwMXlsanJMDQpSeWdPaVlN
+NEtIYkVQQXpkTEQ3cmxxUE02M3c3ZEFFaE5GV3JZVCtmSEZHNnNlNStPTUhT
+MmwzaVYya3VrN1RSDQpMVzExaHlTVUoyQ2RmZzFjakh1eFRzUUQ5ZEVkdHNO
+SlhXeThSbEdHY0M4K2hIQVdId2RUYUUxL0F5QnB6eDRLDQpiVFVNckZtSGN1
+MVU0bmVCZDJESVBOeFI1LzFoTStKK1VYODhTdjdwaGQyY3ZkZ1RzVURaQWdN
+QkFBR2pnZ0dRDQpNSUlCakRBVEJna3JCZ0VFQVlJM0ZBSUVCaDRFQUVNQVFU
+QUxCZ05WSFE4RUJBTUNBWVl3RHdZRFZSMFRBUUgvDQpCQVV3QXdFQi96QWRC
+Z05WSFE0RUZnUVU5VWkvSFdINjVNcmdIMVVtdXlDVnVJZHNUbGN3Z2dFa0Jn
+TlZIUjhFDQpnZ0ViTUlJQkZ6Q0NBUk9nZ2dFUG9JSUJDNGFCdzJ4a1lYQTZM
+eTh2UTA0OVEwRXRVazlQVkMxQlJFMUpUaTFRDQpVazlFTEVOT1BWTldWMGxR
+UTFRM0xFTk9QVU5FVUN4RFRqMVFkV0pzYVdNbE1qQkxaWGtsTWpCVFpYSjJh
+V05sDQpjeXhEVGoxVFpYSjJhV05sY3l4RFRqMURiMjVtYVdkMWNtRjBhVzl1
+TEVSRFBXRmtiV2x1TEVSRFBXTnZiSEoxDQplWFFzUkVNOWFXNTBQMk5sY25S
+cFptbGpZWFJsVW1WMmIyTmhkR2x2Ymt4cGMzUS9ZbUZ6WlQ5dlltcGxZM1JE
+DQpiR0Z6Y3oxalVreEVhWE4wY21saWRYUnBiMjVRYjJsdWRJWkRhSFIwY0Rv
+dkwzTjJkMmx3WTNRM0xtRmtiV2x1DQpMbU52YkhKMWVYUXVhVzUwTDBObGNu
+UkZibkp2Ykd3dlEwRXRVazlQVkMxQlJFMUpUaTFRVWs5RUxtTnliREFRDQpC
+Z2tyQmdFRUFZSTNGUUVFQXdJQkFEQU5CZ2txaGtpRzl3MEJBUVVGQUFPQ0FR
+RUFNd296SzJWZ3hEUFNvU1FkDQo2bjd4MDZCR3RGbVhuamlJQ0tpNEJoQ2l6
+bFVlbnhnekxqamV1KzhLRGIxbG1tZDFBNzNGWVhROGRKQjUrUVVIDQp1b2ZS
+TEEyVi9LVWg0YVdOODlWbTR4cnE1czUrbi84WllKRXgxYWF4N1JoL1FmQWhM
+eHU0cVpMVnNGVGZaOUlwDQp5Zkk1a2EvQWZZVytoV0hKZ3c2SG5RRHkybE5Y
+TU1sdXpXL2J1TmI4cXBmUnB0bzROU2gzaTBVK2k2RHdmTTFwDQpUdG1jTzZj
+ek5SaU9YVlcrcGZCc3NHeDFQV01WOEpQbWV6M2FGV29ULzFBOU9Xbm5yTlNS
+L1VYV0RadWJXa3FDDQo5UGZ4RkVsekx6eUlLcXZLZDk4RTFQQzhwcnFLem1r
+OTEyV0trUjhtQWw4aXRLeVg0Q0ZyUUVwV3NjY0s1MldhDQorUW4zYXc9PQ0K
+LS0tLS1FTkQgQ0VSVElGSUNBVEUtLS0tLQ0K
+</data></dict><dict><key>PayloadType</key><string>com.apple.firstactiveethernet.managed</string><key>PayloadVersion</key><integer>1</integer><key>PayloadIdentifier</key><string>com.apple.mdm.ws207012.local.fd99a5b0-f597-0133-3f77-406c8fbcb000.alacarte.interfaces.179c0790-f598-0133-3f78-406c8fbcb000</string><key>PayloadUUID</key><string>179c0790-f598-0133-3f78-406c8fbcb000</string><key>PayloadEnabled</key><true/><key>PayloadDisplayName</key><string>Wired 802.1X</string><key>HIDDEN_NETWORK</key><false/><key>AutoJoin</key><true/><key>ProxyType</key><string>None</string><key>EncryptionType</key><string>Any</string><key>SetupModes</key><array><string>System</string></array><key>AuthenticationMethod</key><string>directory</string><key>Interface</key><string>FirstActiveEthernet</string><key>EAPClientConfiguration</key><dict><key>AcceptEAPTypes</key><array><integer>13</integer><integer>21</integer><integer>17</integer><integer>25</integer><integer>43</integer></array><key>PayloadCertificateAnchorUUID</key><array><string>7f6f075a-a83a-4477-9519-ca41e74039fc</string></array><key>TTLSInnerAuthentication</key><string>MSCHAPv2</string><key>EAPFASTUsePAC</key><true/><key>EAPFASTProvisionPAC</key><true/><key>EAPFASTProvisionPACAnonymously</key><true/><key>UserName</key><string></string><key>UserPassword</key><string></string><key>OneTimeUserPassword</key><false/><key>SystemModeCredentialsSource</key><string>ActiveDirectory</string></dict></dict><dict><key>PayloadType</key><string>com.apple.wifi.managed</string><key>PayloadVersion</key><integer>1</integer><key>PayloadIdentifier</key><string>com.apple.mdm.ws207012.local.fd99a5b0-f597-0133-3f77-406c8fbcb000.alacarte.interfaces.5064c880-f598-0133-3f79-406c8fbcb000</string><key>PayloadUUID</key><string>5064c880-f598-0133-3f79-406c8fbcb000</string><key>PayloadEnabled</key><true/><key>PayloadDisplayName</key><string>WiFi (dxma)</string><key>HIDDEN_NETWORK</key><true/><key>AutoJoin</key><true/><key>ProxyType</key><string>None</string><key>EncryptionType</key><string>WPA2</string><key>SetupModes</key><array><string>System</string></array><key>AuthenticationMethod</key><string>directory</string><key>Interface</key><string>BuiltInWireless</string><key>SSID_STR</key><string>dxma</string><key>EAPClientConfiguration</key><dict><key>AcceptEAPTypes</key><array><integer>13</integer><integer>21</integer><integer>17</integer><integer>25</integer><integer>43</integer><integer>18</integer><integer>23</integer></array><key>TTLSInnerAuthentication</key><string>MSCHAPv2</string><key>EAPFASTUsePAC</key><true/><key>EAPFASTProvisionPAC</key><true/><key>EAPFASTProvisionPACAnonymously</key><true/><key>UserName</key><string></string><key>UserPassword</key><string></string><key>OneTimeUserPassword</key><false/><key>SystemModeCredentialsSource</key><string>ActiveDirectory</string><key>PayloadCertificateAnchorUUID</key><array><string>7f6f075a-a83a-4477-9519-ca41e74039fc</string></array></dict></dict></array></dict></plist>
